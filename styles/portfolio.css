@@ -119,3 +119,7 @@ p {
     text-align: center;
   }
 }
+.img-fluid {
+  border-radius: 10px;
+  width: 80%;
+}
