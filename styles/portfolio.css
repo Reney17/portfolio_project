@@ -119,25 +119,3 @@ p {
     text-align: center;
   }
 }
-.img-fluid {
-  border-radius: 10px;
-  width: 70%;
-}
-.about-section {
-  text-align: left; /* Align content to the left */
-}
-
-.col-lg-6 {
-  width: 50%; /* Set width for each column */
-  float: left; /* Ensure they stay side by side */
-}
-
-.about-section-content {
-  width: calc(100% - 80px); /* Adjust width to leave space for image */
-  margin-left: 80px; /* Set margin to create space for the image */
-}
-
-.img-fluid {
-  max-width: 100%; /* Ensure image stays within its container */
-  display: block; /* Prevent any alignment issues */
-}
