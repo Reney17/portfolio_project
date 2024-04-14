@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #8a2be2; /* Pink */
+  color: #4b0082;
   font-family: var(--heading-font-family);
   font-weight: bold;
 }
